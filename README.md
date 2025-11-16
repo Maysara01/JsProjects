@@ -1,16 +1,19 @@
 # JsProject
-JSProjects — JavaScript Mini Projects
+JSProjects - JavaScript Mini Projects
 
 A collection of JavaScript Mini projects built to practice DOM manipulation, UI components, and real-world logic.
 Inspired by "GreatStack – 30 Days, 30 JavaScript Projects."
 
-This repository will include 30+ mini JavaScript projects, updated daily as part of my re-study and skill-building phase.
+This repository will include mini JavaScript projects, updated daily as part of my re-study and skill-building phase.
  Projects Included (So Far)
 #	Project Name Status
-1	Dark Mode 	/dark-mode/	 Completed
-2	Digital Clock	/digital-clock/	 Completed
-3	Calendar	/mini-calendar/	 Completed
-4	More projects coming soon…	—	In Progress
+
+| # | Project Name  | Status      |
+| - | ------------- | ----------- |
+| 1 | Dark Mode     | Completed   |
+| 2 | Digital Clock | Completed   |
+| 3 | Calendar      | Completed   |
+| 4 | More projects | In Progress |
 
 As I continue the challenge, more folders will be added.
 
@@ -24,7 +27,7 @@ Vanilla JavaScript (No frameworks)
 
 Perfect for practicing beginner-to-mid-level front-end development.
 
-📁 Folder Structure
+# Folder Structure
 JSProjects/
 │
 ├── Dark-Mode/
@@ -43,6 +46,7 @@ JSProjects/
 │   └── script.js
 │
 └── README.md
+
 
 # How to Run Locally
 
