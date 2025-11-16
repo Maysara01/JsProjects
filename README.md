@@ -30,23 +30,22 @@ Perfect for practicing beginner-to-mid-level front-end development.
 # Folder Structure
 JSProjects/
 │
-├── Dark-Mode/
+├── dark-mode/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
 │
-├── Digital Clock/
+├── digital-clock/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
 │
-├── Calendar/
+├── calendar/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
 │
 └── README.md
-
 
 # How to Run Locally
 
