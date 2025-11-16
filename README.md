@@ -27,25 +27,6 @@ Vanilla JavaScript (No frameworks)
 
 Perfect for practicing beginner-to-mid-level front-end development.
 
-# Folder Structure
-JSProjects/
-│
-├── dark-mode/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── digital-clock/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── calendar/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-└── README.md
 
 # How to Run Locally
 
